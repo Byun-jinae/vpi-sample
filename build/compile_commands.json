@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/opt/nvidia/vpi1/samples/04-rescale/build",
+  "command": "/usr/bin/g++-7   -isystem /opt/nvidia/vpi1/include -isystem /usr/include/opencv4  -g   -o CMakeFiles/vpi_sample_04_rescale.dir/main.cpp.o -c /opt/nvidia/vpi1/samples/04-rescale/main.cpp",
+  "file": "/opt/nvidia/vpi1/samples/04-rescale/main.cpp"
+}
+]

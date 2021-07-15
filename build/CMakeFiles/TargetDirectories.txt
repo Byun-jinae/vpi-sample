@@ -1,0 +1,3 @@
+/opt/nvidia/vpi1/samples/04-rescale/build/CMakeFiles/rebuild_cache.dir
+/opt/nvidia/vpi1/samples/04-rescale/build/CMakeFiles/vpi_sample_04_rescale.dir
+/opt/nvidia/vpi1/samples/04-rescale/build/CMakeFiles/edit_cache.dir
