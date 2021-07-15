@@ -1,0 +1,59 @@
+The system is: Linux - sh: 0: getcwd() failed: No such file or directory
+4.9.201-tegra - sh: 0: getcwd() failed: No such file or directory
+aarch64
+Determining if the C compiler works passed with the following output:
+Change Dir: /opt/nvidia/vpi1/samples/13-distortion/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_3cc60/fast"
+/usr/bin/make -f CMakeFiles/cmTC_3cc60.dir/build.make CMakeFiles/cmTC_3cc60.dir/build
+make[1]: Entering directory '/opt/nvidia/vpi1/samples/13-distortion/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3cc60.dir/testCCompiler.c.o
+/usr/bin/gcc-7    -o CMakeFiles/cmTC_3cc60.dir/testCCompiler.c.o   -c /opt/nvidia/vpi1/samples/13-distortion/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_3cc60
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3cc60.dir/link.txt --verbose=1
+/usr/bin/gcc-7      CMakeFiles/cmTC_3cc60.dir/testCCompiler.c.o  -o cmTC_3cc60 
+make[1]: Leaving directory '/opt/nvidia/vpi1/samples/13-distortion/build/CMakeFiles/CMakeTmp'
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /opt/nvidia/vpi1/samples/13-distortion/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8006b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8006b.dir/build.make CMakeFiles/cmTC_8006b.dir/build
+make[1]: Entering directory '/opt/nvidia/vpi1/samples/13-distortion/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8006b.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc-7    -o CMakeFiles/cmTC_8006b.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_8006b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8006b.dir/link.txt --verbose=1
+/usr/bin/gcc-7      CMakeFiles/cmTC_8006b.dir/CMakeCCompilerABI.c.o  -o cmTC_8006b 
+make[1]: Leaving directory '/opt/nvidia/vpi1/samples/13-distortion/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /opt/nvidia/vpi1/samples/13-distortion/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_65a3c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_65a3c.dir/build.make CMakeFiles/cmTC_65a3c.dir/build
+make[1]: Entering directory '/opt/nvidia/vpi1/samples/13-distortion/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_65a3c.dir/testCXXCompiler.cxx.o
+/usr/bin/g++-7     -o CMakeFiles/cmTC_65a3c.dir/testCXXCompiler.cxx.o -c /opt/nvidia/vpi1/samples/13-distortion/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_65a3c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_65a3c.dir/link.txt --verbose=1
+/usr/bin/g++-7       CMakeFiles/cmTC_65a3c.dir/testCXXCompiler.cxx.o  -o cmTC_65a3c 
+make[1]: Leaving directory '/opt/nvidia/vpi1/samples/13-distortion/build/CMakeFiles/CMakeTmp'
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /opt/nvidia/vpi1/samples/13-distortion/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_839de/fast"
+/usr/bin/make -f CMakeFiles/cmTC_839de.dir/build.make CMakeFiles/cmTC_839de.dir/build
+make[1]: Entering directory '/opt/nvidia/vpi1/samples/13-distortion/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_839de.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/g++-7     -o CMakeFiles/cmTC_839de.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_839de
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_839de.dir/link.txt --verbose=1
+/usr/bin/g++-7       CMakeFiles/cmTC_839de.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_839de 
+make[1]: Leaving directory '/opt/nvidia/vpi1/samples/13-distortion/build/CMakeFiles/CMakeTmp'
+
+

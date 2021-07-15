@@ -1,0 +1,3 @@
+/opt/nvidia/vpi1/samples/13-distortion/CMakeFiles/rebuild_cache.dir
+/opt/nvidia/vpi1/samples/13-distortion/CMakeFiles/vpi_sample_13_distortion.dir
+/opt/nvidia/vpi1/samples/13-distortion/CMakeFiles/edit_cache.dir
